@@ -10,7 +10,7 @@ import { BASE_URL }  from './refs/constants'
 
 export default class extends Component {
 	state = {
-		countries: []
+		countries: [] 
     }
     
     componentDidMount() {
